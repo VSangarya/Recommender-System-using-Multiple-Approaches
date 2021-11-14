@@ -1,6 +1,5 @@
 # Recommender-System-using-Multiple-Approaches
 
-# Recommender-System-using-Multiple-Approaches
 Built a Recommender System using multiple approaches.
 The main file contains 3 functions, each a different approach. The 3 methods are:
 
